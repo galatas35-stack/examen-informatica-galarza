@@ -1,6 +1,6 @@
-# Fuentes de investigación (Perplexity)
-
-Mínimo 3 búsquedas. Una sección por búsqueda.
+# Fuentes de investigación (Perplexity)agrego
+un soloenlace https://www.perplexity.ai/search/71192b55-5bb9-4b36-afa7-29d0d5602315
+Mínimo 3 búsquedas. Un
 
 ## Búsqueda 1
 - **Pregunta que hice:**
