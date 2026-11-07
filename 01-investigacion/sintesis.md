@@ -8,8 +8,8 @@
 ## Hallazgos clave
 Marcá cada uno con **[VERIFICADO]** si lo contrastaste con la fuente original o **[REVISAR]** si no pudiste verificarlo.
 
-1.
-2.
-3.
+1. verificado 
+2. verificado 
+3. revisado
 
 ## Datos que voy a usar en la planilla
