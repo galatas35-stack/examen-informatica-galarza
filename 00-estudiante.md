@@ -1,6 +1,6 @@
 # Datos del estudiante
 
-- **Apellido y nombre:**galarzamiguel
+- **Apellido y nombre:**galarza miguel
 - **Tecnicatura:** ( Administración de Empresas)
 - **Cohorte / turno:**2026/intensivo
 - **Fecha:**07/11/2026
