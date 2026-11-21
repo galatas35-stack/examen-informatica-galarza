@@ -23,7 +23,10 @@
 - Fecha de consulta: 09/11/2026
 
 ## Búsqueda 3
-(pendiente)
+## Búsqueda 3: Derechos de exportación y reintegros
+- Pregunta: ¿Qué derechos y reintegros rigen para la yerba mate?
+- Dato: Derecho de exportación 0% (Decreto 133/2015). Reintegro creado por el Decreto 1341/2016 (publicado el 02/01/2017); el porcentaje exacto para yerba fraccionada está por confirmar.
+- Enlaces: https://www.boletinoficial.gob.ar/detalleAviso/primera/161157/20170102 ; https://www.argentina.gob.ar/normativa/nacional/norma-270117/texto ; https://www.infocampo.com.ar/?p=358344
 
 ## Búsqueda 1
 - **Pregunta que hice:**
